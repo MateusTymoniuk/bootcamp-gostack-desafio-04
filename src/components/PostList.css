@@ -1,0 +1,9 @@
+.post-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.post-list div {
+  width: -webkit-fill-available;
+}
